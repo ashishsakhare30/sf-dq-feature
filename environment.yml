@@ -1,0 +1,6 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - plotly=6.6.0
+  - snowflake-snowpark-python=
